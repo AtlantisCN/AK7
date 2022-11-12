@@ -1,0 +1,84 @@
+{
+  "name": "AK7",
+  "vendorProductId": 1095368727,
+  "macros": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""],
+  "layers": [
+    [
+      "C(A(LCA(KC_LEFT)))",
+      "RGB_TOG",
+      "C(A(LCA(KC_RGHT)))",
+      "C(KC_F5)",
+      "C(KC_F5)",
+      "C(KC_F5)",
+      "C(A(LCA(KC_LEFT)))",
+      "C(KC_F5)",
+      "C(A(LCA(KC_RGHT)))"
+    ],
+    [
+      "KC_A",
+      "KC_TRNS",
+      "KC_B",
+      "RGB_TOG",
+      "RGB_MOD",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS"
+    ],
+    [
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO"
+    ],
+    [
+      "KC_NO",
+      "C(S(A(LCA(MEH(LWIN(SWIN(LCAG(HYPR(KC_FIND)))))))))",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "MT(MOD_LGUI | MOD_RGUI,KC_NO)",
+      "KC_NO",
+      "KC_NO"
+    ],
+    [
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_ENT",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO"
+    ],
+    [
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "S(A(LWIN(SWIN(RSFT(ALGR(RWIN(KC_SPC)))))))",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO"
+    ],
+    [
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "S(A(LWIN(SWIN(RSFT(ALGR(RWIN(KC_0)))))))",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO"
+    ]
+  ]
+}
