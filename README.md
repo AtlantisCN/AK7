@@ -7,7 +7,7 @@ or
 https://usevia.app/#/
 
 1，install via, or visit https://usevia.app/#/
-
+## design，SELECT USE V2 !!!
 2, design, load, AK7_VIA.JSON
 
 3, enjoy it!
